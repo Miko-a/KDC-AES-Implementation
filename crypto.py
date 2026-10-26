@@ -1,6 +1,3 @@
-# Implementasi manual AES-128, AES-CTR, validasi ASCII, dan fungsi HMAC.
-# KDC, metadata pesan, ticket, dan komunikasi jaringan dikelola di protocol.py.
-
 import hashlib
 import hmac
 from typing import List, Sequence
